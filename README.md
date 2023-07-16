@@ -4,6 +4,6 @@ Advance eCommerce Website with Pagination, Searching, Filtering, User Authentica
 
 <br />
 
-### `Stack: Django, React`
+### `Stack: Django, React, Redux, PostgreSQL`
 
-<i>full project stack and deployed site will be added later 🚀</i>
+<i>full project stack will be added later 🚀</i>
